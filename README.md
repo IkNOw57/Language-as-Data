@@ -13,3 +13,7 @@ Images contains:
 - Sentence Length comparison
 - Diminutives counts
 - Modal particles counts
+
+Propmts contains:
+- Data Augmentation prompts
+- Quality Estimation prompts

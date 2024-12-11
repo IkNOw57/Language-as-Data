@@ -1,0 +1,17 @@
+Idioms
+Geef 20 Engelse zinnen en hun Nederlandse vertalingen. Elke Engelse zin moet tussen de 10 en 15 woorden lang zijn en een spreekwoord zijn.\\Jouw antwoord moet een lijst in een lijst zijn in Python.\\Het eerste element van de lijst moet de Nederlandse zin zijn, het tweede element de Engelse vertaling.\\Geef alleen de lijst terug! NIKS anders. Zie het volgende voorbeeld\\{[}{[}"Nederlandse zin"], [Ëngelse vertaling], ...]
+
+Diminutives
+Geef 20 Engelse zinnen en hun Nederlandse vertalingen. Elke Nederlandse zin moet tussen de 10 en 15 woorden lang zijn en verkleinwoorden in zich hebben. Jouw antwoord moet een lijst in een lijst zijn in Python. Het eerste element van de lijst moet de Nederlandse zin zijn, het tweede element de Engelse vertaling. Geef alleen de lijst terug! NIKS anders. Zie het volgende voorbeeld [["Nederlandse zin"], [Ëngelse vertaling], ...]
+
+Modal Particles 
+Geef 20 Engelse zinnen en hun Nederlandse vertalingen. Elke Nederlandse zin moet tussen de 10 en 15 woorden lang zijn en een modaal partikel in zich hebben. Modale partikels zijn: 
+toch - Dat zou je toch moeten weten!
+wel - Ik heb het hem wel gezegd.
+nou/nu - Hou nou/nu op!
+maar - Doe maar wat je niet laten kunt.
+even - Kun je het raam even dichtdoen?
+eens - Bel hem eens op, hij zal nou wel thuis zijn.
+nu eenmaal - Het is nu eenmaal zo, daar is niks aan te doen.
+hoor - Dat is niet waar hoor.
+Jouw antwoord moet een lijst in een lijst zijn in Python.Het eerste element van de lijst moet de Nederlandse zin zijn, het tweede element de Engelse vertaling. Geef alleen de lijst terug! NIKS anders. Zie het volgende voorbeeld[["Nederlandse zin"], [Engelse vertaling], ...] 
