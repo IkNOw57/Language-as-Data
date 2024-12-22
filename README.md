@@ -13,6 +13,7 @@ Images contains:
 - Sentence Length comparison
 - Diminutives counts
 - Modal particles counts
+- Distribution between BLEU and chrF scores for both corpora
 
 Propmts contains:
 - Data Augmentation prompts
